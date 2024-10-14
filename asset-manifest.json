@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xora/static/css/main.32afeacf.css",
+    "main.js": "/xora/static/js/main.af9e8ab6.js",
+    "static/js/453.b6ecf8a2.chunk.js": "/xora/static/js/453.b6ecf8a2.chunk.js",
+    "index.html": "/xora/index.html",
+    "main.32afeacf.css.map": "/xora/static/css/main.32afeacf.css.map",
+    "main.af9e8ab6.js.map": "/xora/static/js/main.af9e8ab6.js.map",
+    "453.b6ecf8a2.chunk.js.map": "/xora/static/js/453.b6ecf8a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32afeacf.css",
+    "static/js/main.af9e8ab6.js"
+  ]
+}

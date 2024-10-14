@@ -184,9 +184,9 @@ export const testimonials = [
   },
   {
     id: "3",
-    name: "Alicia Barker",
+    name: "jhonson Barker",
     role: "Cyberleap",
-    avatarUrl: "/images/testimonials/alicia-barker.png",
+    avatarUrl: "/images/testimonials/alicia.png",
     comment:
       "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
   },

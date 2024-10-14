@@ -160,7 +160,7 @@ export const plans = [
 export const testimonials = [
   {
     id: "0",
-    name: "Jessica Saunders",
+    name: "jhon Saunders",
     role: "Globalnomads",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
@@ -176,7 +176,7 @@ export const testimonials = [
   },
   {
     id: "2",
-    name: "Melanie Hurst",
+    name: "jakob Hurst",
     role: "Cyberleap",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
@@ -192,7 +192,7 @@ export const testimonials = [
   },
   {
     id: "4",
-    name: "Becky Snider",
+    name: "michel Snider",
     role: "Floclips",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:

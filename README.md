@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/ukiGFmZ32YA?feature=shared" target="_blank">
-      <img src="[https://github.com/user-attachments/assets/a582919b-1bdf-4cb2-af44-69b2159cf109](https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_18_16.png)" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_18_16.png" alt="UI Showcase">
     </a>
   <br />
 

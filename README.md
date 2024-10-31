@@ -80,31 +80,50 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
       <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_18_40.png" alt="UI Showcase">
 </a>
 
+<br />
+<br />
+
 <a href="#" target="_blank">
       <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_18_55.png" alt="UI Showcase">
 </a>
+
+<br />
+<br />
 
 <a href="#" target="_blank">
       <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_19_16.png" alt="UI Showcase">
 </a>
 
+<br />
+<br />
 
 <a href="#" target="_blank">
       <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_19_29.png" alt="UI Showcase">
 </a>
 
+<br />
+<br />
+
 <a href="#" target="_blank">
       <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_19_49.png" alt="UI Showcase">
 </a>
+
+<br />
+<br />
 
 <a href="#" target="_blank">
       <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_20_19.png" alt="UI Showcase">
 </a>
 
+<br />
+<br />
+
 <a href="#" target="_blank">
       <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_20_32.png" alt="UI Showcase">
 </a>
 
+<br />
+<br />
 
 <a href="#" target="_blank">
       <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_30_39.png" alt="UI Showcase">

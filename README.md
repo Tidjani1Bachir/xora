@@ -82,11 +82,15 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 <br />
 <br />
+<br />
+<br />
 
 <a href="#" target="_blank">
       <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_18_55.png" alt="UI Showcase">
 </a>
 
+<br />
+<br />
 <br />
 <br />
 
@@ -110,6 +114,8 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 <br />
 <br />
+<br />
+<br />
 
 <a href="#" target="_blank">
       <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_20_19.png" alt="UI Showcase">
@@ -122,6 +128,8 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
       <img src="https://github.com/Tidjani1Bachir/xora/blob/main/public/ui/Screenshot_2024-10-14_18_20_32.png" alt="UI Showcase">
 </a>
 
+<br />
+<br />
 <br />
 <br />
 

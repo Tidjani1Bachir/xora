@@ -88,9 +88,9 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 
 <details>
-<summary><code>tailwind.config.js</code></summary>
 
-```jsx
+
+```
 /** @type {import('tailwindcss').Config} */
 export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
@@ -183,9 +183,9 @@ export default {
 </details>
 
 <details>
-<summary><code>index.css</code></summary>
 
-```css
+
+```
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 @tailwind base;
@@ -503,14 +503,9 @@ export default {
 }
 ```
 
-</details>
 
-> **IMPORTANT 👇**: The file should be named `index.jsx`, not `index.js` as demonstrated in the video. This change is necessary because we've added SVG components in the constants file.
 
-<details>
-<summary><code>constants/index.jsx</code></summary>
-
-```jsx
+```
 export const features = [
   {
     id: '0',
@@ -945,9 +940,9 @@ export const socials = [
 </details>
 
 <details>
-<summary><code>Marker.jsx</code></summary>
 
-```jsx
+
+```
 const Marker = ({ fill }) => {
   return (
     <svg
@@ -971,19 +966,4 @@ export default Marker;
 
 ```
 
-</details>
 
-## <a name="links">🔗 Assets</a>
-
-Assets used in the project can be
-found [here](https://drive.google.com/file/d/1u-l3p3qCnrwmWq5-bG7OkfCXFPYM9t5z/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
